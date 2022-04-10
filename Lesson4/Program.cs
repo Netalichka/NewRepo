@@ -18,7 +18,15 @@ class MyArray {
 
         }
  
-
-
     }
+}
+
+class SumArray
+{
+
+
+
+
+
+
 }
